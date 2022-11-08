@@ -1,0 +1,5 @@
+POST http://localhost:3001/api/notes
+
+{
+    "content": "Esto es una nueva nota"
+}
